@@ -5,6 +5,12 @@
   <title>NesJS</title>
 </head>
 <body>
+  <h1 id="NoScriptElement">You need modern JavaScript to use this emulator.</h1>
+  <script type="text/javascript">
+    let NoScriptElement=document.getElementById("NoScriptElement");
+    NoScriptElement.innerHTML="";
+    NoScriptElement.style.display="none";
+  </script>
   <input id="rom" type="file">
   <button id="pause">Pause</button>
   <button id="reset">Reset</button>
