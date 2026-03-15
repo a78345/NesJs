@@ -8,7 +8,9 @@ pre {
   margin: 0;
   padding: 0;
 }
-
+button {
+  touch-action: manipulation;
+}
 #log {
   font-family: monospace;
   max-height: 200px;
