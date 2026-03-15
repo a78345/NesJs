@@ -2,7 +2,7 @@
 
 ## Notice
 
-I have decided to archive this repository, as I don't see myself working on this emulator any longer. Javascript is simply not a good fit for emulator development, and some personal/mental issues mean that I don't really have the motivation to work on it further (or really, on emulation in general).
+angelo-wf has decided to archive the original repository, as angelo-wf doesn't see angelo-wf working on the original emulator any longer. Javascript is simply not a good fit for emulator development, and some personal/mental issues mean that angelo-wf doesn't really have the motivation to work on it further (or really, on emulation in general).
 
 ## Description
 
